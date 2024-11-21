@@ -1,0 +1,26 @@
+
+p{color:crimson}
+
+/* Who{What: how}*/
+
+h3{color: aquamarine;}
+
+
+
+ol{color: azure;}
+
+
+
+.Headings{
+     color:red;
+     margin:10px;
+     border-style:groove;
+     border-color:black;
+     border-radius:30px;
+     text-align:center;
+}
+
+#header{
+     color:black;
+     text-align:centre; 
+}
